@@ -12,7 +12,7 @@ from passlib.context import CryptContext
 
 
 # URL de conexión a la base de datos MySQL
-SQLALCHEMY_DATABASE_URL = "mysql+pymysql://root:123456@localhost:3306/base_prueba"
+SQLALCHEMY_DATABASE_URL = "mysql+pymysql://root:dSShtaHEXccyyhDmaQRNxhoNIAjfphax@caboose.proxy.rlwy.net:15356/railway"
 
 
 # Crear el motor de la base de datos
